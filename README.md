@@ -19,7 +19,6 @@ Don't be surprised, it's just what I love doing!
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently doing Masters in Data Science.
 - 💞️ I’m looking to connect with graduates from IT field. 
-- 📫 go to www.devbriet.com to reach me.
 
 Languages and Tools:
 Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL, Big Data
