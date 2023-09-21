@@ -26,8 +26,8 @@ Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, Vue, HTML5, C
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocmanbriet&show_icons=true&include_all_commits=true&hide_border=true" /> |    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocmanbriet&langs_count=8&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" /> |    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
